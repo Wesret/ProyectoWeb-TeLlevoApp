@@ -97,6 +97,16 @@
             ],
             "scripts": []
           }
+        },
+        "deploy": {
+          "builder": "@angular/fire:deploy",
+          "options": {
+            "prerender": false,
+            "ssr": false,
+            "browserTarget": "ProyectoWeb:build:production",
+            "firebaseProject": "tellevoapp-802fc",
+            "firebaseHostingSite": "tellevoapp-802fc"
+          }
         }
       }
     }

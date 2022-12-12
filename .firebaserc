@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "tellevoapp-802fc"
+  },
+  "targets": {
+    "tellevoapp-802fc": {
+      "hosting": {
+        "ProyectoWeb": [
+          "tellevoapp-802fc"
+        ]
+      }
+    }
+  }
+}

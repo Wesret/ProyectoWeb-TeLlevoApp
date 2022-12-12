@@ -7,7 +7,7 @@ import { Platform } from '@angular/cdk/platform';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'ProyectoWeb';
+  title = 'Te Llevo App';
 
   celular : boolean;
   link = "https://docs.google.com/uc?export=download&id=1_xr-ULfzj1yCxfr5BpxzQaXkJVbpcnrj";
